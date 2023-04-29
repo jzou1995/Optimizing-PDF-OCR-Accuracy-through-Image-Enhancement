@@ -8,6 +8,7 @@ Python
 Adobe Acrobat (or any other software that can convert PDFs to images)
 ComicEnhancerPro_eng (a free open-source tool)
 Image to pdf or xps (another free open-source tool)
+
 Steps
 Convert your PDF into images (e.g. JPEG or PNG files) using Python or Adobe Acrobat. Save all the images to one folder.
 Download ComicEnhancerPro_eng from the creator's blog site: https://www.cnblogs.com/stronghorse/p/14594337.html
@@ -18,5 +19,6 @@ Click "File", choose "Set DPI", then choose the folder to set all images into DP
 After correctly adjusting the level of enhancement you need (step 4), click "File" then "Batch Process". Browse the folder that contains all the images, click "Process All", and agree to overwriting the pre-existing image files. This will apply all the enhancement features (step 4) onto every image.
 Download "Image to pdf or xps". Import all your processed images into it to convert them into one single PDF. Choose location and name. This software will ensure that there will be no damage to image enhancement in the process of converting Image to PDF. This step is critical to ensuring good OCR results.
 You now have a high-quality OCR-friendly PDF file.
+
 Conclusion
 By following these steps, you'll be able to convert your PDF into a high-quality OCR-friendly PDF that is easy to read and extract text from.
