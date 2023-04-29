@@ -11,6 +11,7 @@
 
 6. Then after correctly adjusting the level of enhancement you need (step 4), click  File then batch process. Browse the folder that contains all the images, click process all and agree to overwriting the prexisting image files. This will apply all the enhancement features (step 4) onto every image.
 
-7. Now download a free open-source tool called "Image to pdf or xps". Import all your processed images into it to convert it into one single PDF. Choose location and name. This software will ensure that there will be no damage to image enhancement in the process of converting Image to PDF. This step is critical to ensuring good OCR results. 
+7. Now download a free open-source tool called "Image to pdf or xps". Import all your processed images into it to convert it into one single PDF. Choose location and name. This software will ensure that there will be no damage to image enhancement in the process of converting Image to PDF. This step is critical to ensuring good OCR results. ![0171d1b903e4fc1622389060f126a20](https://user-images.githubusercontent.com/49746651/235325659-2b477e97-cfc6-4010-ad4b-f710cdfd7a5c.png)
+
 
 8. You now have a optimized PDF that will have higher OCR accuracy than before.
